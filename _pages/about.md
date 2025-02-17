@@ -15,7 +15,7 @@ redirect_from:
 
 📚 I love learning new things currently spending my weekends reading the thriller that is ['Programming Massively Parallel Processors'](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0124159923) and going down the CUDA programming rabbit hole thanks to [Umair Jamil](https://x.com/hkproj): check out my progress [here](https://github.com/p-kris10/100DaysofGPU) as I take on the task to write complex CUDA kernels for 100 days to get the maximum juice out of GPUs
 
-🏃 I am also interested in Running. My Full Marathon Personal Best is 3:39. Check me out on (strava)[]
+🏃 I am also interested in Running. My Full Marathon Personal Best is 3:49. Check me out on [strava](https://strava.app.link/v1seLviw3Qb)
 
 # Some cherry picked stuff I am proud of
 
@@ -32,7 +32,7 @@ Checkout my implementation of [Neural Style Transfer from scratch](https://githu
 Here are some of the results:
 ![Apple](/images/bridge.png)
 ![Pen](/images/style.png)
-![ApplePen](/images/results.png)
+![ApplePen](/images/result.png)
 
 
 
