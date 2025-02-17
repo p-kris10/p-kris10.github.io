@@ -27,12 +27,16 @@ I have experience contributing to [HuggingFace Transformers](https://github.com/
 I love research at the intersection of vision and Language so I have dabbled into reproducing results from both domains that interested me.
 
 
-Checkout my implementation of [Neural Style Transfer from scratch](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb) (This was way before DALL-E entered the scene, love going back to basics and understanding stuff from first pricniples). Here are some of the results from this : 
+Checkout my implementation of [Neural Style Transfer from scratch](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb) (This was way before DALL-E entered the scene, love going back to basics and understanding stuff from first pricniples). Checkout my colab notebook where you can record a video from webcam and apply the style of your choice in realtime!. Here are some of the results from this : 
 
-Here are some of the results:
-![Apple](/images/bridge.png)
-![Pen](/images/style.png)
-![ApplePen](/images/result.png)
+<div style="display: flex; gap: 10px;">
+    <img src="/images/bridge.png" alt="Apple">
+    <img src="/images/style.png" alt="Pen">
+    <img src="/images/result.png" alt="ApplePen">
+</div>
+
+
+
 
 
 
