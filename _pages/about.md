@@ -36,7 +36,7 @@ Checkout my implementation of [Neural Style Transfer from scratch](https://githu
 </div>
 
 
-
+I also modified the Meta's Fairseq library  to support CPT  and implemented both post-training quantization and quantization-aware fine-tuning on a RoBERTa model with mixed precision while optimizing multi-GPU communication primitives and profiling pipeline parallelism to enhance training throughput and reduce memory overhead. check out the code [here](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb)
 
 
 
