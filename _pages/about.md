@@ -27,16 +27,20 @@ I have experience contributing to [HuggingFace Transformers](https://github.com/
 I love research at the intersection of vision and Language so I have dabbled into reproducing results from both domains that interested me.
 
 
-Checkout my implementation of [Neural Style Transfer from scratch](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb) (This was way before DALL-E entered the scene, love going back to basics and understanding stuff from first pricniples). Checkout my colab notebook where you can record a video from webcam and apply the style of your choice in realtime!. Here are some of the results from this : 
+- Checkout my implementation of [Neural Style Transfer from scratch](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb) (This was way before DALL-E entered the scene, love going back to basics and understanding stuff from first pricniples). Checkout my colab notebook where you can record a video from webcam and apply the style of your choice in realtime! Here are some of the results from this : 
 
-<div style="display: flex; gap: 10px;">
-    <img src="/images/bridge.png" alt="Apple">
-    <img src="/images/style.png" alt="Pen">
-    <img src="/images/result.png" alt="ApplePen">
-</div>
+  <div style="display: flex; gap: 10px;">
+      <img src="/images/bridge.png" alt="Apple">
+      <img src="/images/style.png" alt="Pen">
+      <img src="/images/result.png" alt="ApplePen">
+  </div>
 
 
-I also modified the Meta's Fairseq library  to support CPT  and implemented both post-training quantization and quantization-aware fine-tuning on a RoBERTa model with mixed precision while optimizing multi-GPU communication primitives and profiling pipeline parallelism to enhance training throughput and reduce memory overhead. check out the code [here](https://github.com/p-kris10/Universal-NST/blob/main/UniversalNST.ipynb)
+- Checkout my implmentation of [Cyclic Precision Training](https://arxiv.org/pdf/2101.09868), I intergrated it into Meta's Fairseq library making it easier to finetune and train using this technique. I tested the implementation by doing both post-training quantization and quantization-aware fine-tuning on a RoBERTa model with mixed precision. Check out the code [here](https://github.com/p-kris10/CPT_Fairseq)
+
+- My Reproduction of [ Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction](https://arxiv.org/abs/2310.15556) using LlamaIndex [Link](https://github.com/p-kris10/TCRA_LLM).
+
+- If you love tearing things apart just to see how they work and enjoy the nitty-gritty of ML algorithms, you might get a kick out of my implementations of popular scikit-learn models from scratch using numpy. Check it out [here](https://github.com/p-kris10/ML_from_Scratch/blob/main/ML_Algorithms.ipynb)
 
 
 
